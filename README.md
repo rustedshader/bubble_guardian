@@ -2,7 +2,7 @@
 
 This Game is based on a player who is trapped on an Island and has to defeat bosses to win and escape the Island 
 
-Made in 48 hours @ [GlobalGameJam](http://globalgamejam.org/) UPES Dehradun
+Made in 48 hours @ [GlobalGameJam](http://globalgamejam.org/) 2025 UPES Dehradun
 
 ## How to Build ?
 
